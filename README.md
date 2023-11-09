@@ -17,3 +17,6 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - Dynamo DB
 - GitHub Actions
 - Terraform
+
+## Author
+- LinkedIn: [Adeyemi](https://www.linkedin.com/in/adeyemi-ogunleye-s/)
